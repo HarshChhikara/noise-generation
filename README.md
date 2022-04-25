@@ -16,6 +16,4 @@ Then you have to import the package in your project,
 ```dart
 import 'package:noise_generation/noise_generation.dart';
 ```
-
-![](./images/image.png)
 Created by [Harsh Chhikara](https://www.linkedin.com/in/harsh-chhikara-191a84175/)
