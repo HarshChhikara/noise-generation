@@ -13,6 +13,9 @@ Then you have to import the package in your project,
 import 'package:noise_generation/noise_generation.dart';
 ```
 ### Example
-[Click here for more Example](https://github.com/HarshChhikara/noise-generation/blob/main/example/noiseexample.dart)
+[Example](https://github.com/HarshChhikara/noise-generation/blob/main/example/noiseexample.dart)
+
+### GITHUB
+[GITHUB](https://github.com/HarshChhikara/noise-generation)
 
 Created by [Harsh Chhikara](https://www.linkedin.com/in/harsh-chhikara-191a84175/)
