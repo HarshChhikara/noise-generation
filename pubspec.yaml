@@ -1,6 +1,6 @@
 name: noise_generation
 description: A Flutter package that allows to generate random noise patterns.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/HarshChhikara/noise-generation
 
 environment:
