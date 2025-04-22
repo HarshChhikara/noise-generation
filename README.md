@@ -3,7 +3,7 @@
 A Flutter package that allows users to generate random static noise (similar to TV noise), made up of tiny colorful dots.
 
 ## Sample
-<img src="/images/noise_generator_demo.gif" width="250" height="250"/>
+<img src="/images/noise_generator_demo.gif" width="450" height="250"/>
 
 ## How to Use
 First you have to set the dependencies,
