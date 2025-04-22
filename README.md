@@ -2,12 +2,11 @@
 
 A Flutter package that allows users to generate random static noise (similar to TV noise), made up of tiny colorful dots.
 
-## Screenshots
+## Sample
 
-<img src="noise_generator_demo.gif" height="300em" />
+![noise_generator_demo](https://github.com/user-attachments/assets/cec2f734-a8ca-4d95-bea6-6a02e3df3821)
 
 ## How to Use
-
 First you have to set the dependencies,
 ```dart
 noise_generation
